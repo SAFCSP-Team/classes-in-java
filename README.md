@@ -16,7 +16,7 @@ Create a `Book` class with `title`, `author`, and `price` fields, three construc
 - Implement three constructors:
     - One that takes all three fields as parameters.
     - One that takes only `title` and `author` and sets `price` to 0.0.
-    - A default constructor that sets `title` and `author` to `"Unknown"`, and `price` to 0.0.
+    - A parameterless constructor that sets `title` and `author` to `"Unknown"`, and `price` to 0.0.
 - Add a `displayInfo()` method that prints the book's details.
 - In the `main` method of the `Main` class:
     - Create three book objects using different constructors.
