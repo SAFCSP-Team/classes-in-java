@@ -5,7 +5,7 @@
 In this project, our main goal is to understand how to use classes and objects in Java.
 
 ### Problem
-Create a `Book` class with `title` and `price` fields, three constructors, and a method to display information.
+Create a `Book` class with `title`, `author`, and `price` fields, three constructors, and a method to display information.
 
 ### Implementation
 
